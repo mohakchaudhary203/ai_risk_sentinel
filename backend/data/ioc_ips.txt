@@ -1,0 +1,2 @@
+# Add verified IP indicators here, one address per line.
+# Do not use example or unverified addresses as real blocking evidence.
